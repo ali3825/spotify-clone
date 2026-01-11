@@ -3,7 +3,8 @@
 A responsive **Spotify Web Player Clone** built using **HTML, CSS, and JavaScript**.  
 This project mimics the core UI and audio playback features of Spotify.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------⭐ If you like this project, don’t forget to star the repo!
+---
+# ⭐ If you like this project, don’t forget to star the repo!
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🚀 Features
