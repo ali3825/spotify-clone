@@ -78,9 +78,5 @@ Final Year Student | MERN Stack Web Developer
 
 ---
 
-If you want next:
-
-- ✅ Convert this into a **portfolio project**
-
-Just tell me 😄
+pair programming test
 
