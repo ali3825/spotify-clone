@@ -76,6 +76,8 @@ Final Year Student | MERN Stack Web Developer
 
 > “Developed a Spotify Web Player clone using HTML, CSS, and JavaScript with real-time audio controls, progress tracking, and responsive UI.”
 
+
+Duplicate this repo
 ---
 
 pair programming test
